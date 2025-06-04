@@ -27,3 +27,6 @@ eg. Images.
 
 2. UI for interaction logs, you can copy nonce id and search in the Logger for whole injected request.
 ![image](https://github.com/user-attachments/assets/bcae6492-681f-4178-8fdf-38ac6bbdf6ee)
+
+Credit: https://github.com/PortSwigger/collaborator-everywhere
+For further information, please refer to the whitepaper at https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface
